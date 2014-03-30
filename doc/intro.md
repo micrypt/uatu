@@ -1,3 +1,3 @@
-# Introduction to app
+# Introduction to Uatu
 
 TODO: write [great documentation](http://jacobian.org/writing/great-documentation/what-to-write/)
